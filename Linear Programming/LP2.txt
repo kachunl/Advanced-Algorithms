@@ -1,0 +1,12 @@
+# N_Decision_Variables
+2
+# N_Constraints
+2
+# Coefficients_of_Objective_Function
+6, 5
+# Constraints_Matrix_LHS
+1, 1
+3, 2
+# constraints_Vector_RHS
+5
+12
