@@ -1,1 +1,1 @@
-FT3155 Advanced data structures and algorithms
+FIT3155 Advanced data structures and algorithms
